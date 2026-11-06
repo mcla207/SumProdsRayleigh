@@ -1,6 +1,6 @@
 # On the Exact Sum of Products of Rayleigh Envelopes With Application to RIS
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1448778071.svg)](https://doi.org/10.5281/zenodo.24022854)
 
 Code accompanying the article:
 
